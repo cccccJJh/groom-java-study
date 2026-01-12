@@ -27,5 +27,8 @@ public class VariablePractice {
         System.out.println("나이: " + age + "살");
         System.out.println("학점: " + grade);
 
+
+        System.out.println("Hello, Java Study!");
+
     }
 }
